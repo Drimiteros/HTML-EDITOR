@@ -1,4 +1,4 @@
-# Html Editor v.1.0
+# Text Editor v.1.0
 A simple text editor that executes html code made in C++ in a couple of days using the SFML library.
 
 FEATURES:
